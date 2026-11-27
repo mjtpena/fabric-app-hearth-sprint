@@ -1,0 +1,95 @@
+1
+00:00:03,207 --> 00:00:06,262
+A stone hearth only stays warm if you tend the
+
+2
+00:00:06,262 --> 00:00:09,317
+logs — and learning sprints work the same way.
+
+3
+00:00:09,767 --> 00:00:12,709
+Hearth Sprint scores what teams retain, not how
+
+4
+00:00:12,709 --> 00:00:15,087
+many videos they play at double speed.
+
+5
+00:00:15,537 --> 00:00:18,646
+Each log on the grate is a sprint topic: thickness
+
+6
+00:00:18,646 --> 00:00:22,937
+is effective study hours, and flame height is current retrievability.
+
+7
+00:00:23,387 --> 00:00:27,955
+Two neglected topics have already faded to grey ash
+
+8
+00:00:27,955 --> 00:00:31,537
+with a pale ash line on the hearthstone.
+
+9
+00:00:31,987 --> 00:00:34,896
+On the chimney breast, the brass thermometer tracks
+
+10
+00:00:34,896 --> 00:00:37,747
+the leading team’s mean retained hours per member.
+
+11
+00:00:38,709 --> 00:00:41,663
+Switching to the Recall due lens highlights which
+
+12
+00:00:41,663 --> 00:00:44,859
+logs are cooling below the seventy percent threshold.
+
+13
+00:00:45,309 --> 00:00:48,469
+The Today panel surfaces fading topics, pending
+
+14
+00:00:48,469 --> 00:00:51,629
+buddy confirmations, and your daily minute cap.
+
+15
+00:00:52,079 --> 00:00:55,935
+Selecting your own minutes-today item traces your personal
+
+16
+00:00:55,935 --> 00:00:59,059
+forgetting curve in soot on the chimney breast.
+
+17
+00:00:59,870 --> 00:01:04,038
+You can switch between Host and Learner perspectives, or toggle to
+
+18
+00:01:04,038 --> 00:01:08,270
+the accessible list view for the exact same retrievability numbers.
+
+19
+00:01:09,077 --> 00:01:14,548
+In the Study log, building and teaching earn higher weights than passive watching, sessions
+
+20
+00:01:14,548 --> 00:01:19,237
+under ten minutes score zero, and each day caps at one hundred eighty minutes.
+
+21
+00:01:20,053 --> 00:01:23,423
+Recall checks taken in Poker do not change a team’s
+
+22
+00:01:23,423 --> 00:01:27,123
+score until a teammate confirms them on the Buddy bench.
+
+23
+00:01:27,573 --> 00:01:31,236
+Confirming a teammate’s recall stokes their log, multiplying
+
+24
+00:01:31,236 --> 00:01:34,593
+memory stability and lifting the team’s retained hours.
